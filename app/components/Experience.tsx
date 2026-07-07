@@ -32,7 +32,7 @@ const experiences = [
 ];
 
 const education = {
-  degree: "Bachelor of Science — Computer Science",
+  degree: "Bachelor of Information technology",
   institution: "University of Gujrat",
   location: "Gujrat, Pakistan",
   period: "Graduated May 2026",
