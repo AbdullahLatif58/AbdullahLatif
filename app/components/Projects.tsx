@@ -179,7 +179,7 @@ export default function Projects() {
 
   return (
     <section id="projects" className="py-28 bg-[#060B18] relative overflow-hidden" ref={ref}>
-      {/* Subtle grid */}
+     
       <div className="absolute inset-0 mesh-grid opacity-30" />
       <div className="absolute top-1/3 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-blue-600/5 rounded-full blur-3xl pointer-events-none" />
 
