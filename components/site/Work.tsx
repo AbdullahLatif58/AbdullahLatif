@@ -104,11 +104,11 @@ export function Work() {
 
       <Reveal className="mt-16">
         <Link
-          href="/projects"
-          className="label-mono border-border inline-flex items-center gap-3 rounded-full border px-6 py-3 text-foreground transition-colors hover:bg-foreground hover:text-background"
-        >
-          View all <span aria-hidden>→</span>
-        </Link>
+  href="/projects"
+  className="label-mono inline-flex items-center gap-3 rounded-full border border-foreground bg-foreground px-6 py-3 text-background transition-colors duration-300 hover:bg-background hover:text-foreground"
+>
+  View all <span aria-hidden>→</span>
+</Link>
       </Reveal>
     </section>
   );
